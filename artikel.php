@@ -4,7 +4,7 @@
   ?>
 
  	<div class="content">
-		<h4 style="padding-left: 30px;"> Artikel </h4>
+		<h4 style="padding-left: 30px;"> Artikel Ku </h4>
     &nbsp;
 		
 	<?php
